@@ -1,9 +1,8 @@
 import { useContext, useEffect, useState, type ChangeEvent, type SyntheticEvent } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import type UsuarioLogin from "../../models/UsuarioLogin";
-
-import { ClipLoader } from "react-spinners";
 import { AuthContext } from "../../contexts/AuthContext";
+import { ClipLoader } from "react-spinners";
 
 
 function Login() {
@@ -36,8 +35,6 @@ function Login() {
         e.preventDefault();
         handleLogin(usuarioLogin);
     }
-
-    console.log(JSON.stringify(usuarioLogin));
 
     return (
         <>
