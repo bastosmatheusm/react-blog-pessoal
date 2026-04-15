@@ -118,8 +118,13 @@ A aplicação se comunica com a API do projeto:
 
 <br />
 
+## 7. Deploy
 
-## 7. Estrutura de Diretórios
+A aplicação está disponível em produção:
+
+🔗 [react-blog-pessoal-tau.vercel.app](https://react-blog-pessoal-tau.vercel.app)
+
+## 8. Estrutura de Diretórios
 
 ```
 src/
@@ -140,7 +145,7 @@ src/
 <br />
 
 
-## 8. Implementações futuras
+## 9. Implementações futuras
 
 - Upload de imagem de perfil para o usuário
 - Responsividade aprimorada
@@ -150,7 +155,7 @@ src/
 <br />
 
 
-## 9. Contribuição
+## 10. Contribuição
 
 Contribuições são bem-vindas!
 
@@ -163,7 +168,7 @@ Se você encontrou algum problema ou deseja propor melhorias:
 <br />
 
 
-## 10. Contato
+## 11. Contato
 
 Desenvolvido por [**Matheus**](https://github.com/bastosmatheusm)
 Dúvidas ou sugestões? Entre em contato pelo GitHub ou abra uma issue no repositório.
